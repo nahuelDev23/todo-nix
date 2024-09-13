@@ -1,0 +1,3 @@
+# todo-nix
+hyprpaper
+hyprlock
